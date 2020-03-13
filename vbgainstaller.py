@@ -1,6 +1,6 @@
 import os,sys,time,getpass
 
-VBOX = "6.1.0"
+VBOX = "6.1.4"
 
 TUSER = getpass.getuser()
 if TUSER == "root":
